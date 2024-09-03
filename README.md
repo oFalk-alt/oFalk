@@ -2,4 +2,4 @@
  meu primeiro repositorio
 
 repositorio teste criado, vendo uma aula!
-(Teste) linha criada diretamente do site github
+Teste linha criada diretamente do site github
